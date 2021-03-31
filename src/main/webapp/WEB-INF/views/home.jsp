@@ -6,9 +6,9 @@
 </head>
 <body>
 <h1>
-	첫 리눅스에서 시작하는 스프링프로젝트
+	안녕
 </h1>
 
-<P>  The time on the server is ${serverTime}. </P>
+배고파
 </body>
 </html>
